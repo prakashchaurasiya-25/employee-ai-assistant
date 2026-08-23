@@ -63,6 +63,18 @@ The application provides complete employee CRUD operations, dashboard analytics,
 - Postman
 - Visual Studio Code
 
+
+## 📸 Screenshots
+
+### Employee Management Dashboard
+
+![Employee Management Dashboard](screenshots/dashboard.png)
+
+### AI Employee Assistant
+
+![AI Employee Assistant](screenshots/ai-assistant.png)
+
+
 ## 🏗️ Architecture
 
 ```text

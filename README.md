@@ -13,6 +13,16 @@ The application provides complete employee CRUD operations, dashboard analytics,
 - Delete employees
 - Search employees by name, email, or department
 
+## 📸 Screenshots
+
+### Employee Management Dashboard
+
+![Employee Management Dashboard](screenshots/dashboard.png)
+
+### AI Employee Assistant
+
+![AI Employee Assistant](screenshots/ai-assistant.png)
+
 ### Dashboard
 - Total employee count
 - IT employee count
